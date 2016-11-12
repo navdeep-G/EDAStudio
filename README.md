@@ -10,7 +10,7 @@
 
 # CSV Data Input
 
-[read.csv("yourdata.csv",na.strings = c("NA","."))]
+ - Essentially utilized `read.csv` -> `read.csv("yourdata.csv",na.strings = c("NA","."))`
 
 #Data Manipulations
 
