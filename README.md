@@ -12,7 +12,7 @@
 
  - Essentially utilizes `read.csv` -> `read.csv("yourdata.csv",na.strings = c("NA","."))`
 
-#Data Manipulations
+# Data Manipulations
 
  - Change continuous variable to be treated as categorical
  - Change continuous variable to categories with a specified number of bins or by supplying values for the bins start/end
