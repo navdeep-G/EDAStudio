@@ -21,7 +21,7 @@
  - Combining two categorical variables into one
  - Rounding a numerical variable to a specified number of digits
  
-# ggplot2 functionality (facet_grid and facet_wrap)
+# `ggplot2` functionality
 
  - Group, color, size, fill mappings
  - Controlling y and x axis labels, legends and other commonly used theme options.
